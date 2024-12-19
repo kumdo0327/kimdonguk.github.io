@@ -14,4 +14,4 @@ Integrated M.S. & Ph.D. Student,
 ## Publications
 - **PAFL: Enhancing Fault Localizers by Leveraging Project-Specific Fault Patterns**  
   (Conditional Accept)  
-  __Donguk Kim__, Minseok Jeon, Doha Hwang, Hakjoo Oh
+  <ins>Donguk Kim</ins>, Minseok Jeon, Doha Hwang, Hakjoo Oh
