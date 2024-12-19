@@ -14,4 +14,5 @@ Integrated M.S. & Ph.D. Student,
 ## Publications
 - **PAFL: Enhancing Fault Localizers by Leveraging Project-Specific Fault Patterns**  
   (Conditional Accept)  
-  <ins>Donguk Kim</ins>, Minseok Jeon, Doha Hwang, Hakjoo Oh
+  <ins>Donguk Kim</ins>, Minseok Jeon, Doha Hwang, Hakjoo Oh  
+  [**OOPSLA 2025**: ACM Conference on Object-oriented Programming, Systems, Languages, and Applications](https://2025.splashcon.org/track/OOPSLA)
