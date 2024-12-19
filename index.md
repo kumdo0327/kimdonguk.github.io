@@ -12,8 +12,6 @@ Integrated M.S. & Ph.D. Student,
 - **B.S.** in Dept. of Computer Science and Engineering, Korea University (2020.03 - 2024.02)
 
 ## Publications
-- **PAFL: Enhancing Fault Localizers by Leveraging Project-Specific Fault Patterns**
-
-  (Conditional Accept)
-
+- **PAFL: Enhancing Fault Localizers by Leveraging Project-Specific Fault Patterns**  
+  (Conditional Accept)  
   _Donguk Kim_, Minseok Jeon, Doha Hwang, Hakjoo Oh
